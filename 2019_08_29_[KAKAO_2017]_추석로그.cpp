@@ -87,6 +87,7 @@ int main() {
 for (auto k : tmp) {
 	STR_TO_INT_TIME(k, START, END);
 }
+/*
 int MAX = 0;
 int E = tmp.size();
 for (auto s : START) {
@@ -97,7 +98,7 @@ for (auto s : START) {
 
 
 
-
+*/
 
 
 	return 0;
